@@ -1,5 +1,5 @@
 # 📱 Phone Bat Helper
-The Phone Bat Helper is a versatile and user-friendly Windows batch script designed to assist users in managing Android device flashing and USB driver installation. The tool simplifies complex processes, making it ideal for developers, enthusiasts, and anyone working with Android firmware. \
+The Phone Bat Helper is a versatile and user-friendly Windows batch script designed to assist users in managing Android device flashing and USB driver installation. The tool simplifies complex processes, making it ideal for developers, enthusiasts, and anyone working with Android firmware. 
 
 # 📌 Key Features
 ⠂USB Driver Installation:
